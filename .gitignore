@@ -1,7 +1,7 @@
 *.zip
 *.csv
 *.csv.gz
-
+.vscode
 Cours2.ipynb
 
 *.pdf
