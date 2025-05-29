@@ -4,9 +4,10 @@
 .vscode
 Cours2.ipynb
 
-*.pdf
 
-
+*.gz
+*.csv.gz
+Data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

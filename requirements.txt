@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+jupyter
+jupyterlab
+ipykernel
+ipywidgets
+powerlaw
+seaborn
+scipy
+statsmodels
+tqdm
